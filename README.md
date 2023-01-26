@@ -1,5 +1,5 @@
 ## All_Black_Chrome_themes
-  I am boared with black themes that have grey boarders and mismaatecd button colors.
+  I am boared with black themes that have grey boarders and mismatched button colors.
   So i made my own. be hold all black custom chrome theme by🍉.
    <table>
    <td>superblack</td>
@@ -35,5 +35,5 @@
  </table>
 
   `Done✔`
-  
+
 ## Thank You🍉
