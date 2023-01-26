@@ -3,7 +3,7 @@
   So i made my own. be hold all black custom chrome theme by🍉.
    <table>
    <td>superblack</td>
-   <td>superblack_melon</td>
+   <td>supermelon</td>
   <tr>
     <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk.jpg"></td>
     <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk_mln.jpg"></td>
