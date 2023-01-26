@@ -1,6 +1,16 @@
 ## All_Black_Chrome_themes
   I am boared with black themes that have grey boarders and mismaatecd button colors.
   So i made my own. be hold all black custom chrome theme by🍉.
+   <table>
+   <td>superblack</td>
+   <td>superblack_melon</td>
+  <tr>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk.jpg"></td>
+    <td><img src="https://github.com/Nayemhasan/All_Black_Chrome_themes/blob/main/pics/final/superblk_mln.jpg"></td>
+  </tr>
+ </table>
+
+
 
 ## How to install?
   `Goto> 3 dots on left> More tools> Extensions`
